@@ -76,7 +76,7 @@ include("mysql.php");
             <img src="./img/timbs.png" alt="Timbs" class="image" width="300" height="200">
             <div class="text-block">
                 <h4>Timberland 6 Inch Boot</h4>
-                <p>What a beautiful sunrise</p>
+                <p>What a beautifulq sunrise</p>
             </div>
         </div>
 
